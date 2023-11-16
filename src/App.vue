@@ -1,9 +1,10 @@
 <script setup>
-import Students from "./components/Students.vue";
+
 </script>
 
 <template>
-  <Students />
+  Football
+  <router-view></router-view>
 </template>
 
 <style scoped></style>
